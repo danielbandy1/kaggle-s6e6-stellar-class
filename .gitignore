@@ -1,0 +1,13 @@
+data/
+models/*.npy
+models/*.joblib
+models/*.pkl
+submissions/
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+*.out
+*.log
+nohup.out
