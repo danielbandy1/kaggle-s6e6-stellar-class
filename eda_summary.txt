@@ -1,0 +1,8 @@
+# Kaggle Playground S6E6 EDA Summary
+
+Data directory: /home/daniel/kaggle/s6e6/data
+
+No CSV files found. Kaggle download likely failed or Daniel has not accepted/authenticated the competition yet.
+
+Kaggle download stderr:
+
